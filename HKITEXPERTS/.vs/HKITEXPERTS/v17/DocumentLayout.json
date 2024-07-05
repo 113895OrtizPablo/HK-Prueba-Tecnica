@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jime\\Desktop\\Pablo\\HKITEXPERTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EFA26B-20BB-4F90-AF60-A4E50760729F}|ConsultaPoliza\\ConsultaPoliza.csproj|c:\\users\\jime\\desktop\\pablo\\hkitexperts\\consultapoliza\\presentacion\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EFA26B-20BB-4F90-AF60-A4E50760729F}|ConsultaPoliza\\ConsultaPoliza.csproj|solutionrelative:consultapoliza\\presentacion\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EFA26B-20BB-4F90-AF60-A4E50760729F}|ConsultaPoliza\\ConsultaPoliza.csproj|c:\\users\\jime\\desktop\\pablo\\hkitexperts\\consultapoliza\\presentacion\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8EFA26B-20BB-4F90-AF60-A4E50760729F}|ConsultaPoliza\\ConsultaPoliza.csproj|solutionrelative:consultapoliza\\presentacion\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EFA26B-20BB-4F90-AF60-A4E50760729F}|ConsultaPoliza\\ConsultaPoliza.csproj|c:\\users\\jime\\desktop\\pablo\\hkitexperts\\consultapoliza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EFA26B-20BB-4F90-AF60-A4E50760729F}|ConsultaPoliza\\ConsultaPoliza.csproj|solutionrelative:consultapoliza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EFA26B-20BB-4F90-AF60-A4E50760729F}|ConsultaPoliza\\ConsultaPoliza.csproj|c:\\users\\jime\\desktop\\pablo\\hkitexperts\\consultapoliza\\servicio\\implementacion\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EFA26B-20BB-4F90-AF60-A4E50760729F}|ConsultaPoliza\\ConsultaPoliza.csproj|solutionrelative:consultapoliza\\servicio\\implementacion\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jime\\Desktop\\Pablo\\HKITEXPERTS\\ConsultaPoliza\\Program.cs",
+              "RelativeDocumentMoniker": "ConsultaPoliza\\Program.cs",
+              "ToolTip": "C:\\Users\\Jime\\Desktop\\Pablo\\HKITEXPERTS\\ConsultaPoliza\\Program.cs",
+              "RelativeToolTip": "ConsultaPoliza\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:45:53.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Jime\\Desktop\\Pablo\\HKITEXPERTS\\ConsultaPoliza\\Presentacion\\Proyecto.cs",
+              "RelativeDocumentMoniker": "ConsultaPoliza\\Presentacion\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\Jime\\Desktop\\Pablo\\HKITEXPERTS\\ConsultaPoliza\\Presentacion\\Proyecto.cs",
+              "RelativeToolTip": "ConsultaPoliza\\Presentacion\\Proyecto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAnwBoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:44:12.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Jime\\Desktop\\Pablo\\HKITEXPERTS\\ConsultaPoliza\\Servicio\\Implementacion\\Servicio.cs",
+              "RelativeDocumentMoniker": "ConsultaPoliza\\Servicio\\Implementacion\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Jime\\Desktop\\Pablo\\HKITEXPERTS\\ConsultaPoliza\\Servicio\\Implementacion\\Servicio.cs",
+              "RelativeToolTip": "ConsultaPoliza\\Servicio\\Implementacion\\Servicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:20:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proyecto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Jime\\Desktop\\Pablo\\HKITEXPERTS\\ConsultaPoliza\\Presentacion\\Proyecto.cs",
+              "RelativeDocumentMoniker": "ConsultaPoliza\\Presentacion\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\Jime\\Desktop\\Pablo\\HKITEXPERTS\\ConsultaPoliza\\Presentacion\\Proyecto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConsultaPoliza\\Presentacion\\Proyecto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:16:59.685Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
